@@ -9,17 +9,20 @@ MyBankingSystem is a simple C++ project that simulates a basic banking system. I
 
 The project is structured as follows:
 
-MyBankingSystem  
-|-- include  
-| |-- Account.h  
-| |-- Transaction.h  
-| |-- MyBank.h  
-|-- src  
-| |-- Account.cpp  
-| |-- Transaction.cpp  
-| |-- main.cpp  
-|-- CMakeLists.txt  
-|-- README.md  
+MyBankingSystem   
+│  
+├───include  
+│   ├───Account.h  
+│   ├───Transaction.h  
+│   └───MyBank.h  
+│  
+├───src  
+│   ├───Account.cpp  
+│   ├───Transaction.cpp  
+│   └───main.cpp  
+│  
+├───CMakeLists.txt  
+└───README.md   
 
 
 ---
