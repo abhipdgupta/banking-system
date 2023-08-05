@@ -22,7 +22,7 @@ MyBankingSystem
 │   └───main.cpp  
 │  
 ├───CMakeLists.txt  
-└───README.md   
+└───README.md    
 
 
 ---
