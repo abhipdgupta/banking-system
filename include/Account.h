@@ -1,5 +1,4 @@
-#ifndef ACCOUNT_H
-#define ACCOUNT_H
+#pragma once
 
 #include <string>
 
@@ -19,4 +18,3 @@ namespace MyBankingSystem {
     };
 }
 
-#endif // ACCOUNT_H

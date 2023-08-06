@@ -1,5 +1,4 @@
-#ifndef TRANSACTION_H
-#define TRANSACTION_H
+#pragma once
 
 #include <string>
 
@@ -15,5 +14,3 @@ namespace MyBankingSystem {
         double amount_;
     };
 }
-
-#endif // TRANSACTION_H

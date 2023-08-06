@@ -1,7 +1,6 @@
-#ifndef MYBANK_H
-#define MYBANK_H
+#pragma once
 
 #include "Account.h"
 #include "Transaction.h"
 
-#endif // MYBANK_H
+
